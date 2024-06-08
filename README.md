@@ -1,5 +1,5 @@
 <img align="center" src="https://github.com/AbdullahFaiaz/AbdullahFaiaz/blob/main/banner.jpg" alt="abdullahfaiaz" />
-</br> </br>
+</br> 
 <h1 align="center">Hi 👋, I'm Abdullah Faiaz</h1>
 <h2 align="center">A passionate MERN Stack developer</h2>
 </br>
