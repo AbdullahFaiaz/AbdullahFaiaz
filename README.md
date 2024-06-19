@@ -9,7 +9,7 @@
 
 <h1 align="right"> </h1><img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="coding" align="right" width="300px">
 <h3 align="left">About me:</h3>
-- 🌱 I’m currently learning **Next JS**  
+- 🌱 I’m currently learning **Next JS**
 - 🌱 Currently doing a course: **Complete Web </br> Development Course from Programming Hero**
 
 - 💬 Talk to me about **React JS**
