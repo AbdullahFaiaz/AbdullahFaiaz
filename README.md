@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **talha0184999@gmail.com** **, 01784411785 (WhatsApp)**
 
-- 📄 Know about my experiences https://abdullah-faiaz-portfolio.vercel.app/
+- 📄 **My Portfolio:** **https://abdullah-faiaz-portfolio.vercel.app/**
 </br></br>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahfaiaz&show_icons=true&locale=en&layout=compact" alt="abdullahfaiaz" />
 <h3 align="left">Connect with me:</h3>
