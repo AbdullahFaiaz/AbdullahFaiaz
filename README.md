@@ -21,7 +21,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahfaiaz&show_icons=true&locale=en&layout=compact" alt="abdullahfaiaz" />
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://linkedin.com/in/abdullah-faiaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-faiaz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdullahfaiaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-faiaz" height="30" width="40" /></a>
 
 </br>
 <h2 align="center">Languages and Tools:</h2>
